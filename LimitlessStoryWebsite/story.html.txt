@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Story</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>The Legacy of Limitless Potential</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="story.html">Story</a>
+        </nav>
+    </header>
+
+    <section class="story-content">
+        <h2>From the First to the Last</h2>
+        <p>The Birth of Power...</p>
+        <!-- Insert your full story text here -->
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

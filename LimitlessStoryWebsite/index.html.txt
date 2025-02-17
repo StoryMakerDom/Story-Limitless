@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legacy of Limitless Potential</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Legacy of Limitless Potential</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="story.html">Story</a>
+        </nav>
+    </header>
+
+    <section class="content">
+        <h2>Welcome to the Legend</h2>
+        <p>Discover the story of Apex, Vanguard, and the battle against Pure Chaos.</p>
+        <a href="story.html" class="btn">Read the Story</a>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

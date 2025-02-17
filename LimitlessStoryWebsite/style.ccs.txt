@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('images/burning-city.gif') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.content, .story-content {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.6);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background: red;
+    text-decoration: none;
+    border-radius: 5px;
+}
